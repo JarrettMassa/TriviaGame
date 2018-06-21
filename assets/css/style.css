@@ -1,0 +1,16 @@
+body {
+	background-color: #FCD133;
+}
+
+.answers {
+	margin-left: 20px;
+	margin-top: 20px;
+}
+
+.button-column {
+	margin-top: 30px;
+}
+
+.btn {
+	margin: 5px;
+}
